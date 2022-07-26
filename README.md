@@ -1,4 +1,4 @@
-[<img src="https://ibb.co/9sxbXhp">](OpenNyAI)
+![alt text](https://ibb.co/9sxbXhp "OpenNyAI")
 
 # OpenNyAI
 
