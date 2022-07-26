@@ -1,4 +1,5 @@
-![alt text](https://ibb.co/9sxbXhp "OpenNyAI")
+![OpenNyAI](https://ibb.co/9sxbXhp)
+![alt text](http://url/to/img.png)
 
 # OpenNyAI
 
