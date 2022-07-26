@@ -1,4 +1,4 @@
-<img style="float: centre;" src="opennyai_logo.png" width="15" height="18">
+<img style="float: centre;" src="opennyai_logo.png" width="126" height="70">
 
 
 # OpenNyAI
