@@ -1,4 +1,5 @@
-![OpenNyAI](opennyai_logo.png)
+<img style="float: centre;" src="opennyai_logo.png" width="15" height="18">
+
 
 # OpenNyAI
 
