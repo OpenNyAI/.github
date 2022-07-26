@@ -1,8 +1,4 @@
-img.center {
-    display: block;
-    margin: 0 auto;
-}
-
+<div style="text-align: center;"><img src="opennyai_logo.png" width="100" alt="OpenNyAI" /></div>
 <img style="float: middle;" src="opennyai_logo.png" width="126" height="70" class="center">
 
 
