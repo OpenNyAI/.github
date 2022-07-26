@@ -1,10 +1,9 @@
-<img style="float: middle;" src="opennyai_logo.png" width="126" height="70" class="center">
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+img.center {
+    display: block;
+    margin: 0 auto;
 }
+
+<img style="float: middle;" src="opennyai_logo.png" width="126" height="70" class="center">
 
 
 # OpenNyAI
