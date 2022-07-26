@@ -1,4 +1,10 @@
-<img style="float: centre;" src="opennyai_logo.png" width="126" height="70">
+<img style="float: middle;" src="opennyai_logo.png" width="126" height="70" class="center">
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 
 # OpenNyAI
