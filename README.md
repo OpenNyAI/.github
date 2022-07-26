@@ -1,4 +1,7 @@
-<div style="text-align: center;"><img src="opennyai_logo.png" width="100" alt="OpenNyAI" /></div>
+<p align="center">
+  <img src="opennyai_logo.png" width="126" height="70"/>
+</p>
+
 <img style="float: middle;" src="opennyai_logo.png" width="126" height="70" class="center">
 
 
