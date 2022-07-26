@@ -1,4 +1,4 @@
-![OpenNyAI](OpenNyAI_Logo_final.png)
+![OpenNyAI](opennyai_logo.png)
 
 # OpenNyAI
 
